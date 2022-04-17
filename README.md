@@ -1,5 +1,3 @@
-# DatAnaEdu
-Public -Education Trials
 # Example of READ-ME #
 ## First trial file ##
 *created by me*
